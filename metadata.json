@@ -1,0 +1,6 @@
+{
+  "name": "Chama Logo Studio & Brand Kit",
+  "description": "Design, preview, and export logos for Chama community savings and rotating loan applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
